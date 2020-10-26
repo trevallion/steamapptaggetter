@@ -12,7 +12,8 @@ _steamapptaggetter.py_ should work as long as you have **BeautifulSoup4** and **
 dependencies) installed in your Python environment.
 
 <h2>Usage</h2>
+
 ```python
 from steamapppgetter import get_steam_app_tags
 app_tags = get_steam_app_tags(730)
-``` 
+```
